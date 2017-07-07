@@ -6,7 +6,7 @@ h
 
 dir=~/dotfiles                    # dotfiles directory
 olddir=~/dotfiles_old             # old dotfiles backup directory
-files="git-completion.zsh slate zshrc zprofile zpreztorc zprezto"    # list of files/folders to symlink in homedir
+files="git-completion.zsh slate zshrc zprofile zpreztorc zprezto gitconfig"    # list of files/folders to symlink in homedir
 
 ##########
 
